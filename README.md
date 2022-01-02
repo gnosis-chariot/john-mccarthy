@@ -4,4 +4,4 @@ John McCarthy was an American computer scientist and cognitive scientist. McCart
 
 I have created this reposity for the demystification of various aspects, concepts, theories, technologies, techniques and use cases which is required for the basic or Deep understanding of the AI and ML. 
 
-My this repository is dedicated to Sir John McCarthy
+The Name of My this repository is dedicated to Sir John McCarthy
