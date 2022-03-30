@@ -4,6 +4,11 @@ John McCarthy was an American computer and cognitive scientist. McCarthy was one
 
 This reposity is created for the demystification of various aspects, concepts, theories, technologies, techniques and use cases which is required for the basic or Deep understanding of the AI and ML.
 
+## Commit Pattern
++ AIML : DDMMYYYYHHMM : Sort Description  
+
+  Detail about the changes
+
 ## RGB Channel Manipulation :
   > [Note Book](https://github.com/white-parrot/john-mccarthy/blob/master/computer-vision/rgb-channel.ipynb) 
 + **Excercise 01** :- 3 Channel Image Manipulation Using Matplotlib (RGB)   
